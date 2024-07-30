@@ -1,0 +1,4 @@
+curriculum.foreign.entries=Άλλα μαθήματα
+curriculum.toggle.description=Εμφάνιση της δομής του προγράμματος σπουδών
+filter.with.statement.only=Μόνο με απόδειξη απόδοσης
+filter.activ=Μόνο ενεργό

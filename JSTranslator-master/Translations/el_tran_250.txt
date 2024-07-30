@@ -1,0 +1,5 @@
+add.mail.title=Να στείλετε e-mail
+add.confirm.title=ΣΦΑΙΡΙΚΗ ΕΙΚΟΝΑ
+add.choose.title=Επιλέξτε χρήστη
+add.permission.title=Πρόσβαση
+mail.sendMail=έστειλε E-Mail

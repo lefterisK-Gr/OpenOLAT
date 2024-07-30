@@ -1,0 +1,29 @@
+add.role=Προσθήκη νέου ρόλου
+admin.menu.title=Ρόλος χρήστη σε χρήστη
+admin.menu.title.alt=Ρόλος χρήστη σε χρήστη
+admin.title=Ρόλος χρήστη σε χρήστη
+confirm.delete.role.text=Θέλετε πραγματικά να διαγράψετε τον ρόλο "{0}";
+edit.role=Επεξεργασία ρόλου "{0}"
+confirm.delete.role.title=Διαγραφή ρόλου
+error.relation.role.deleted=Ο ρόλος διαγράφηκε από άλλον.
+error.relation.role.in.use=Ο ρόλος "{0}" εξακολουθεί να χρησιμοποιείται και δεν μπορεί να διαγραφεί.
+no.predefined.label=-
+on=ένας
+info.role.delete=Ο ρόλος "{0}" διαγράφηκε με επιτυχία.
+not.translated=Δεν έχει μεταφραστεί
+role.identifier=ονομασία
+relations.enable=Ρόλος χρήστη σε χρήστη
+predefined.labels=Προκαθορισμένες ετικέτες
+role.name=ρόλος
+role.rights=σωστά
+role.line.manager=Διευθυντής Γραμμής
+table.header.id=ταυτότητα
+table.header.identifier=ονομασία
+table.header.managed=<i class\='o_icon o_icon_managed'> </i>
+table.header.role=ρόλος
+table.header.role.description=περιγραφή
+table.header.translate=<i class\='o_icon o_icon_language'> </i>
+table.header.role.contra=κόντρα ρόλος
+translate=<i class\='o_icon o_icon_managed'> </i>
+table.header.role.contra.description=αντιπεριγραφή
+translate.title=Μεταφραστικός ρόλος "{0}"

@@ -1,0 +1,11 @@
+admin.enabled=Συνεργασία Online ενότητα
+admin.refresh.discovery=Για ενημέρωση
+admin.refresh.discovery.label=Ενημερώστε το WOPI Discovery
+admin.desc=Το Collabora Online είναι ένα ισχυρό λογισμικό που βασίζεται στο LibreOffice για διαδικτυακή συλλογική επεξεργασία εγγράφων. Υποστηρίζει όλες τις κοινές μορφές αρχείων για επεξεργασία κειμένου, υπολογιστικά φύλλα και παρουσιάσεις. Περισσότερες πληροφορίες μπορείτε να βρείτε στον <a href\="http\://www.collaboraoffice.com/collabora-online/" target\=_blank>ιστότοπο</a> της Collabora.
+admin.test=δοκιμή
+admin.url=URL
+admin.refresh.discovery.help=Οι πληροφορίες για τους υποστηριζόμενους τύπους εγγράφων αποθηκεύονται στο WOPI Discovery. Λαμβάνεται μία φορά από την Collabora Online. Πατήστε αυτό το κουμπί για να ενημερώσετε το WOPI Discovery π.χ. Β. μετά από ενημέρωση της Collabora Online.
+admin.title=Συνεργασία στο Διαδίκτυο
+editor.display.name=Συνεργασία Online
+editor.warning.locked=Το έγγραφο υποβάλλεται ήδη σε επεξεργασία σε άλλο πρόγραμμα επεξεργασίας και επομένως δεν είναι πλέον δυνατή η επεξεργασία του στο Collabora Online.
+editor.warning.no.metadata=Αυτό το έγγραφο δεν μπορεί να εμφανιστεί!

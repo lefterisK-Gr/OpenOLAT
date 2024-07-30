@@ -1,0 +1,11 @@
+pane.tab.vcconfig=Ρυθμίσεις
+title_vc=Adobe Connect
+guest.allowed=πρόσβαση
+moderator.start.meeting=Ανοιχτό δωμάτιο
+vc.access.label=Πρόσβαση
+vc.access.dates=Η εικονική τάξη θα πρέπει να είναι προσβάσιμη μόνο σε συγκεκριμένες ημερομηνίες
+vc.access.start=Μόνο οι συντονιστές επιτρέπεται να ανοίγουν αυτήν την αίθουσα
+vc.access.open=Ο συντονιστής πρέπει να είναι συνδεδεμένος στην αίθουσα για να επιβεβαιώσει την είσοδο για τους συμμετέχοντες
+wimba.not.supported.title=Τάξη Wimba
+vc.options.label=εξουσιοδότηση πρόσβασης
+wimba.not.supported.message=Το Wimba Classroom δεν υποτιμάται.

@@ -1,0 +1,11 @@
+operator.attributeEndswith=τελειώνει με αξία
+operator.attributeStartswith=ξεκινά με αξία
+operator.hasAttribute=έχει την ακριβή τιμή
+operator.hasNotAttribute=δεν έχει την αξία
+operator.equals=είναι ίσο με
+operator.isInAttribute=περιέχει την τιμή
+operator.isNotInAttribute=δεν περιέχει την τιμή
+operator.greaterThanEquals=μεγαλύτερο ή ίσο με
+operator.greaterThan=μεγαλύτερος από
+operator.lowerThan=λιγότερο από
+operator.lowerThanEquals=λιγότερο ίσο

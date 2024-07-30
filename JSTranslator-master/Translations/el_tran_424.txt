@@ -1,0 +1,5 @@
+element.title.text=κείμενο
+element.title.link=Αριστερά
+element.title.menu=Μενού
+element.title.toolbox=εργαλειοθήκη
+element.title.header=Επικεφαλίδες

@@ -1,0 +1,5 @@
+pane.tab.vcconfig=χώρος
+guestnoaccess.title=$org.olat.course.nodes\:guestnoaccess.title
+guestnoaccess.message=$org.olat.course.nodes\:guestnoaccess.message
+table.empty=$org.olat.modules.gotomeeting.ui\:table.empty
+title_vc=Πηγαίνω στην συνάντηση

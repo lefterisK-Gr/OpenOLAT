@@ -1,0 +1,16 @@
+add.course.owner=Προσθήκη ως κάτοχος
+add.course.tutor=Προσθέστε ως προπονητής
+add.courses.title=Πόροι εκμάθησης στους οποίους είναι εγγεγραμμένος αυτός ο χρήστης
+choose=Επιλέγω
+table.header.displayName=σειρά μαθημάτων
+add.course.participant=Προσθήκη ως συμμετέχων
+unsubscribe.group.del=$org.olat.admin.user.groups\:unsubscribe.group.del
+unsubscribe.successful=Επιτυχής έξοδος
+unsubscribe.text=Θέλετε πραγματικά να αφαιρέσετε τον χρήστη "{0}" από το μάθημα "{1}";
+error.atleastone=Πρέπει να υπάρχει τουλάχιστον ένας κάτοχος στο μάθημα "{0}".
+unsubscribe.title=Κατάργηση χρήστη από το μάθημα
+unsubscribe.withgroups.text=Θέλετε πραγματικά να αφαιρέσετε τον χρήστη "{0}" από το μάθημα "{1}" και την ομάδα "{2}";
+dialog.modal.bg.mail.text=Θέλετε να ειδοποιήσετε τον χρήστη μέσω ταχυδρομείου;
+group.delete.confirmation=$org.olat.admin.user.groups\:group.delete.confirmation
+warning.cannot.leave.entry=Ο πόρος μάθησης διαχειρίζεται εξωτερικά («διαχειρίζεται»), η ανάθεση των μελών γίνεται αυτόματα.
+warning.cannot.leave.group=Ο χρήστης εκχωρείται μέσω μιας ομάδας και δεν επιτρέπεται η έξοδος από την ομάδα.

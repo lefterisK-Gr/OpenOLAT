@@ -1,0 +1,6 @@
+repositoryPortlet.noentry=Δεν υπάρχουν τρέχοντα μαθήματα για εσάς.
+repositoryPortlet.showAll=Προβολή όλων
+repositoryPortlet.student.description=Μια λίστα με όλα τα μαθήματα που παρακολουθώ
+repositoryPortlet.student.title=τα μαθήματα μου
+repositoryPortlet.teacher.description=Μια λίστα με όλα τα μαθήματα στα οποία είμαι συγγραφέας μαθημάτων ή επιβλέπω μια ομάδα εκμάθησης
+repositoryPortlet.teacher.title=Τα εποπτευόμενα μαθήματά μου

@@ -1,0 +1,10 @@
+admin.menu.title=Γεννήτρια PDF
+admin.menu.title.alt=Γεννήτρια PDF
+athena.pdf.key=κλειδί
+on=ΕΝΑ
+athena.pdf.url=URL υπηρεσίας
+athena.pdf.description=<a href="https://www.athenapdf.com">Το AthenaPDF</a> είναι μια γεννήτρια PDF που βασίζεται σε Electron και Docker. Αυτή η υλοποίηση χρησιμοποιεί την παραλλαγή Micro Service. Δείτε <a href="https://www.athenapdf.com">το AthenaPDF</a> και το <a href="https://github.com/arachnys/athenapdf/tree/master/weaver">GitHub</a> για περισσότερες πληροφορίες.
+pdf.providers=γεννήτρια
+pdf.enable=υπηρεσία PDF
+pdf.service.title=Γεννήτρια PDF
+pdf.service.description=Γεννήτρια PDF

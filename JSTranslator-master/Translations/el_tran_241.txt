@@ -1,0 +1,6 @@
+assign.grader.contact=διορθωτές
+import.confirm.title=Επιβεβαιώνω
+import.choose.title=Επιλέξτε διορθωτή
+import.mail.title=Επικοινωνία
+import.search.resource.title=Επιλέξτε δοκιμή
+resources.noresources=Δεν βρέθηκε κανένα τεστ

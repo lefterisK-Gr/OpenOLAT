@@ -1,0 +1,5 @@
+resume.button=Ναί
+resume.button.cancel=όχι
+resume=Θέλετε να επαναφέρετε την τελευταία συνεδρία σας;
+resume.button.landing=Αρχική σελίδα
+askagain.label=Μη ρωτάς άλλο

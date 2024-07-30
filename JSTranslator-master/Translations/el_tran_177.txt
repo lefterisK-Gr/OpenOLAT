@@ -1,0 +1,17 @@
+menu.createstatfile=καθημερινά
+menu.createstatfile.alt=Εμφάνιση καθημερινών στατιστικών
+statistic.title=Καθημερινά στατιστικά
+statistic.intro=Αυτό το στατιστικό δείχνει όλες τις προσβάσεις στα στοιχεία του μαθήματος με βάση όλα τα διαθέσιμα δεδομένα μαθημάτων ανά ημέρα.
+statistic.chart.intro=Αυτό το γράφημα δείχνει όλες τις επισκέψεις {0} με βάση όλα τα διαθέσιμα δεδομένα τιμών ανά ημέρα.
+statistic.chart.pernode.intro=Αυτό το γραφικό δείχνει την πρόσβαση στα στοιχεία του μαθήματος στο {0}.
+stat.table.header.total=Σύνολο
+stat.table.header.day1=Κυριακή
+stat.table.header.node=στοιχείο του μαθήματος
+stat.table.header.day2=Δευτέρα
+statistic.chart.pernode.total.intro=Αυτό το γραφικό δείχνει όλη την πρόσβαση στα στοιχεία του μαθήματος κατά την επιλεγμένη χρονική περίοδο.
+stat.table.header.day3=Τρίτη
+stat.table.header.day4=Τετάρτη
+stat.table.header.day5=Πέμπτη
+stat.table.header.day6=Παρασκευή
+stat.table.header.day7=Σάββατο
+datechooser.error=Παρουσιάστηκε πρόβλημα με το φίλτρο ημερομηνίας.\nΔεν ήταν δυνατή η εκ νέου δημιουργία των στατιστικών.

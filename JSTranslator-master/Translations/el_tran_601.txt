@@ -1,0 +1,5 @@
+notifications.entry={0} δημιουργήθηκε
+notifications.header=Νέοι λογαριασμοί χρηστών έχουν δημιουργηθεί:
+notifications.title=Δημιουργήθηκαν {0} νέοι χρήστες
+notifications.titleOne=Δημιουργήθηκε 1 νέος χρήστης
+notifications.table.title=Δημιουργήθηκαν νέοι χρήστες

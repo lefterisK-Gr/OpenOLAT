@@ -1,0 +1,13 @@
+quickstart.link.help=βοήθεια
+quickstart.link.settings=ιδέες
+quickstart.link.repository.courses=ΚΥΚΛΟΣ ΜΑΘΗΜΑΤΩΝ
+quickstart.ttip.help=Γνωρίστε το OpenOlat
+quickstart.ttip.settings=Προσαρμόστε το OpenOlat στις ανάγκες σας
+quickstart.intro=Οι παρακάτω σύνδεσμοι σάς δίνουν γρήγορη πρόσβαση σε επιλεγμένες λειτουργίες OpenOlat.
+quickstart.title=Σύνδεσμοι γρήγορης εκκίνησης OpenOlat
+quickstart.ttip.buddygroup.new=Δημιουργήστε μια ομάδα για τα έργα σας, π.χ. για την ανταλλαγή εγγράφων
+quickstart.ttip.repository.catalog=Περιηγηθείτε στον κατάλογο για μαθήματα
+quickstart.description=Νέος χρήστης OpenOLAT; Εδώ θα βρείτε τους πιο σημαντικούς συνδέσμους με μια ματιά.
+quickstart.link.buddygroup.new=ομάδα εργασίας
+quickstart.ttip.repository.courses=Διαβάστε τη λίστα με όλα τα μαθήματα
+quickstart.link.repository.catalog=Κατάλογος

@@ -1,0 +1,15 @@
+aria.filters=φίλτρο
+aria.customize=Επιλέξτε Στήλες
+aria.search.input=ψάχνω
+aria.reset.search=κατάργηση αναζήτησης
+aria.select.row.with.val=Επιλέξτε {0}
+aria.select.row=Επιλέξτε γραμμή
+aria.view.table=προβολή τραπεζιού
+aria.sort=ταξινόμηση πίνακα
+aria.view.custom=προβολή λίστας
+show.all=Ολα
+page.size.a=Εμφάνιση {0} έως {1} από {2} σειρές.
+page.size.b=Καταχωρήσεις ανά σελίδα
+remove.filters=Αφαιρέστε τα φίλτρα
+form.checkall.numbered=Επιλέξτε και τις {0} σειρές
+form.checkpage=Επιλέξτε όλες τις σειρές της σελίδας

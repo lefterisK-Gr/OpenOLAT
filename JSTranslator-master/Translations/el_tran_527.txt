@@ -1,0 +1,22 @@
+admin.baseUrl=URL LTI πόρος
+admin.enabled=μονάδα card2brain
+admin.baseUrlHelpText=Χρησιμοποιήστε το '%s' ως σύμβολο κράτησης θέσης για το ψευδώνυμο της κάρτας flash.
+admin.enterpriseKey=Κλειδί API
+admin.description=Το card2brain είναι η πολυκαναλική εφαρμογή για συστηματική μάθηση σε όλους τους τομείς της γνώσης. Στο card2brain.ch μπορείτε να δημιουργήσετε flashcards και να τις μάθετε σύμφωνα με τη γνωστή αρχή των πέντε θαυμαστών του Sebastian Leitner. Περισσότερες πληροφορίες μπορείτε να βρείτε στον <a href\="http\://card2brain.ch" target\=_blank>ιστότοπο</a> του card2brain.
+admin.enterpriseLoginHelpText=Απαιτείται συνδρομή "Εταιρική" του card2brain για την Εταιρική Είσοδο.
+admin.enterpriseLoginEnabled=Είσοδος επιχείρησης
+admin.enterpriseLoginHelpUrl=https://card2brain.ch/register/index?licence\=multiple&lang\=de
+admin.enterpriseSecret=APISecret
+admin.expertSettings=ρυθμίσεις ειδικών
+admin.menu.title=card2brain
+admin.menu.title.alt=card2brain
+admin.peekViewUrl=Προεπισκόπηση URL
+admin.privateLoginEnabled=Ιδιωτική σύνδεση
+admin.peekViewUrlHelpText=Χρησιμοποιήστε το '%s' ως σύμβολο κράτησης θέσης για το ψευδώνυμο της κάρτας flash.
+admin.title=Ρυθμίσεις
+admin.privateLoginHelpText=Εμφάνιση πληροφοριών σύνδεσης στο στοιχείο του μαθήματος.
+admin.verifyKeySecret.button=Ελέγξτε το κλειδί/μυστικό
+admin.verifyKeySecret.invalid=Το κλειδί και το μυστικό δεν ισχύουν. Απάντηση από διακομιστή card2brain: {0}
+admin.verifyKeySecret.unavaible=Δεν ήταν δυνατή η εκτέλεση του ελέγχου.
+admin.verifyKeySecret.url=URL LTI κλειδί/Μυστική επαλήθευση
+admin.verifyKeySecret.valid=Το κλειδί και το μυστικό ισχύουν.

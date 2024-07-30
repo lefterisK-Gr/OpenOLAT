@@ -1,0 +1,29 @@
+admin.menu.title=ασφάλεια
+sec.content.security.policy.report.only=αναφορά μόνο
+admin.menu.title.alt=Προσαρμόστε τις ρυθμίσεις ασφαλείας
+sec.csp.default.src=προεπιλογή-src
+sec.content.security.policy=Πολιτική ασφάλειας περιεχομένου (CSP)
+sec.csp.script.src=script-src
+sec.content.type.options=Αποτρέπει την εικασία αρχείων σεναρίου και στυλ του προγράμματος περιήγησης με κεφαλίδες HTTP
+sec.csp.style.src=στυλ-src
+sec.csp.font.src=γραμματοσειρά-src
+sec.csp.img.src=img-src
+sec.csp.frame.src=πλαίσιο src
+sec.csp.connect.src=connect-src
+sec.csp.media.src=media src
+sec.csp.object.src=αντικείμενο src
+sec.csp.plugin.type=τύπος προσθήκης
+sec.csp.default.value=Η τιμή περιλαμβάνεται πάντα: {0}. Παράδειγμα 1}
+sec.csrf=Προστασία πλαστογράφησης αιτημάτων διασταυρούμενης τοποθεσίας (CSRF).
+sec.description=Επιλέξτε το απαραίτητο επίπεδο ασφάλειας ανάλογα με τις απαιτήσεις του ιδρύματός σας. Για να επιτευχθεί το υψηλότερο επίπεδο ασφάλειας, όλες οι παρακάτω λειτουργίες ασφαλείας πρέπει να είναι ενεργοποιημένες.
+sec.description.headers=Αυτές οι κεφαλίδες αποτρέπουν περισσότερες περιττές αναλογίες όπως...
+sec.description.csrf=Αυτή η διαμόρφωση αυξάνει την ασφάλεια έναντι πλαστών αιτημάτων.
+sec.description.csp=Προσοχή! Αυτή η διαμόρφωση μπορεί να αποκλείσει περιεχόμενο όπως το στοιχείο μαθήματος LTI, την εξωτερική σελίδα και τη σελίδα HTML. Τα ακόλουθα στοιχεία μαθήματος δεν υποστηρίζονται αυτήν τη στιγμή: card2brain, edubase, edubook, GoToTraining, openmeeting, vitero και PayPal. Για περισσότερες πληροφορίες, ανατρέξτε στην ενότητα <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy" target="_blank">Πολιτική ασφάλειας περιεχομένου</a> .
+sec.title=ρυθμίσεις ασφαλείας
+sec.force.download=Αναγκαστική λήψη αρχείου σε φάκελο
+sec.topframe=Αποτρέψτε την ενσωμάτωση πλαισίου μέσω JavaScript
+sec.strict.transport.sec=Αποτρέψτε την υποβάθμιση HTTPS σε HTTP με την κεφαλίδα HTTP
+security.configuration=Ρυθμίσεις
+sec.top.frame.explanation=Για λόγους συμβατότητας, ορισμένα στοιχεία OpenOlat (TinyMCE) δεν μπορούν να εμφανιστούν σε ένα πλαίσιο.
+sec.xframe.sameorigin=Αποτροπή ενσωμάτωσης πλαισίου με κεφαλίδα HTTP X-FRAME-OPTIONS=SAMEDOMAIN
+security.csp.log=Αρχείο καταγραφής πολιτικής ασφάλειας περιεχομένου

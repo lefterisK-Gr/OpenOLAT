@@ -1,0 +1,13 @@
+nomembers=Κανένα μέλος
+table.header.curriculum.root.identifier=ονομασία
+table.header.curriculum.root.displayname=Επώνυμο
+table.header.online=$org.olat.group.ui.main\:table.header.online
+contact.list.participants=συνδρομητής
+contact.list.external=Εξωτερικοί παραλήπτες
+contact.list.others=Διάφορος
+table.header.lastTime=Επισκέφτηκε πρόσφατα
+table.header.firstTime=ένταξη
+table.header.curriculum=διδακτέα ύλη
+contact.list.coaches=Επόπτης
+contact.list.owners=ιδιοκτήτης
+contact.list.waiting=λίστα αναμονής

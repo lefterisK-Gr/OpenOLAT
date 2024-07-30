@@ -1,0 +1,2 @@
+titlewrapper.linkopened=Δείξε περιγραφή
+titlewrapper.linkclosed=Απόκρυψη περιγραφής

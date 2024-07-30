@@ -1,0 +1,18 @@
+{
+    "de2enTranslate"                : false,
+    "de2elTranslate"                : true,
+    "reworkTranslatedFiles"         : true,
+    "verboseTranslations"           : false,
+    "verboseCatalogues"             : false,
+    "verboseRetainedTerms"          : false,
+    "verboseSpecialRetainedTerms"   : true,
+    "verboseCompletions"            : true,
+    "maxTranslatedPropertyFiles"    : 0,
+    "runTest"                       : false,
+    "testOutput"                    : "Data/test.txt",
+    "testInput"                     : "J:/Developments/OpenOLAT-16.2/src/main/java/org/olat/admin/restapi/_i18n/LocalStrings_el.properties.txt",
+    "sleepMsecs"                    : 60,
+    "sleepFileMsecs"                : 20,
+    "logTranslatedFiles"            : true,
+    "logFile"                       : "log.txt"
+}

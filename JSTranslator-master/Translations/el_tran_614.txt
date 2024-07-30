@@ -1,0 +1,10 @@
+jump.to.content=Μετάβαση στο περιεχόμενο
+jump.to.menu=Μεταβείτε στο μενού
+jump.to.nav=Μετάβαση στην πλοήγηση
+meta.description=OpenOlat - άπειρη μάθηση
+not.logged.in=Δεν έχετε συνδεθεί
+meta.keywords=OpenOlat, OLAT, eLearning, πλατφόρμα εκμάθησης, LMS, σύστημα διαχείρισης εκμάθησης, LCMS, σύστημα διαχείρισης περιεχομένου εκμάθησης, ανοιχτού κώδικα, elearning, JAVA, IMS, QTI, SCORM, πακέτο περιεχομένου, συνεργασία, χρηστικότητα, απόδοση, επεκτασιμότητα
+other.users.online=οι άνθρωποι είναι online
+select.language=Επιλέξτε τη γλώσσα σας
+wayf.help.noscript=Ενεργοποιήστε τη JavaScript.<br><br> Χωρίς JavaScript, το OLAT εκτελείται μόνο σε κάποιο βαθμό και με σαφή απώλεια της άνεσης του χρήστη.
+wayf.cookies=Πρέπει να ενεργοποιήσετε τα cookies, διαφορετικά δεν θα μπορείτε να συνδεθείτε στο OLAT\!

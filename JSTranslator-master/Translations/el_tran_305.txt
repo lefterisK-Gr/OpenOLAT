@@ -1,0 +1,3 @@
+super=εξαιρετική
+no.need.to.translate.this=απλά μια δοκιμή
+really=μην το μεταφράσεις

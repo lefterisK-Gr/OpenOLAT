@@ -1,0 +1,14 @@
+admin.edubase.cover.url=Υπηρεσία "κάλυψης" URL
+admin.edubase.description=Το Edubase είναι η ολοκληρωμένη λύση all-in-one για ψηφιακές και έντυπες εκδόσεις. Με τη μονάδα OpenOlat Edubase, το Edubase Reader μπορεί να ενσωματωθεί σε μαθήματα. Περισσότερες πληροφορίες μπορείτε να βρείτε στον <a href\="http\://www.edubase.ch" target\=_blank>ιστότοπο</a> της Edubase
+admin.edubase.enabled=Στοιχείο μαθήματος "Edubase".
+admin.edubase.infover.url=Υπηρεσία URL "infover".
+admin.edubase.lti.launch.url=URL LTI Εκκίνηση
+admin.edubase.oauth.key=κλειδί
+admin.edubase.oauth.secret=Μυστικό
+admin.edubase.reader.url=URL Edubase Reader
+admin.edubase.reader.url.unique=Μοναδικό URL Edubase Reader
+admin.edubase.title=edubase
+admin.edubase.reader.url.unique.help=Η διεύθυνση URL του Edubase Reader συμπληρώνεται από μια μοναδική συντομογραφία για κάθε χρήστη, έτσι ώστε να αποφεύγονται προβλήματα με τον αριθμό των εγγεγραμμένων συσκευών.
+admin.expert.settings=ρυθμίσεις ειδικών
+admin.menu.title.alt=Στοιχεία μαθήματος Edubase και Edubook
+admin.menu.title=Edubase/Edubook

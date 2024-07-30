@@ -1,0 +1,8 @@
+advanceOrder.creationDate=Ημερομηνία δημιουργίας
+advanceOrder.identitfier.value=αξία
+advanceOrder.identitfier.key=κλειδί
+advanceOrder.method=μέθοδος κράτησης
+confirm.delete.advanceOrder=Θέλετε πραγματικά να διαγράψετε αυτήν την προπαραγγελία;
+table.advanceOrder.delete=Διαγράφω
+confirm.delete.advanceOrder.title=Διαγραφή προπαραγγελίας
+table.advanceOrder.empty=Δεν υπάρχουν προπαραγγελίες.

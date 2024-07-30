@@ -1,0 +1,32 @@
+// https://cloud.google.com/translate/docs/basic/translating-text#translating_text
+
+var props = ReadProrties('sample.properties');
+var total = Object.keys(props).length;
+
+// this is an async process!
+
+for (const key in props) {
+
+    var value = props[key];
+    var valLower = value.toLowerCase();
+
+    function CheckFinished () {
+        if (!--total)
+            console.log('Finished!');
+    }
+
+    if (customTerms.hasOwnProperty(valLower)) {
+        console.log('Custom->' + value + ':' + customTerms[valLower]);
+        CheckFinished();
+    }
+    else {
+        googleTranslate.translate(
+            value, 
+            fromLanguage, 
+            toLanguage, (err, translation) => {
+                console.log(translation.originalText + ':' + translation.translatedText);
+                CheckFinished();
+            }
+        );
+    }
+};

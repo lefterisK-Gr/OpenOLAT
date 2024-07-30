@@ -1,0 +1,14 @@
+action.choose=Επιλέγω
+note.header=Οι σημειώσεις μου
+note.delete.successfull=Η σημείωση έχει διαγραφεί.
+note.delete.confirmation=Θέλετε πραγματικά να διαγράψετε αυτήν τη σημείωση;
+note.nonotes=Δεν υπάρχουν σημειώσεις.
+action.delete=Διαγράφω
+note=Σημειώσεις\: {0}
+notesPortlet.showAll=Προβολή όλων
+notesPortlet.nonotes=Δεν έχετε δημιουργήσει σημειώσεις
+table.header.delete=Διαγράφω
+table.note.title=τίτλος
+table.note.resource=μαθησιακό πόρο
+notesPortlet.title=Οι σημειώσεις μου
+notesPortlet.description=Γρήγορη πρόσβαση στις σημειώσεις που χρησιμοποιείτε περισσότερο

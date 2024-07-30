@@ -1,0 +1,13 @@
+action.choose=Να αδειάσω
+cache.hitcnt=χτυπήματα
+cache.empty=λειτουργία κρυφής μνήμης
+cache.name=Επώνυμο
+cache.maxElements=Μαξ Ελ
+cache.mcexp=Δεσποινίδες
+cache.off.heap=Εκτός σωρού
+cache.quickcount=~ αντικείμενα
+cache.ttl=Διάρκεια ζωής (χιλιοστά δευτερολέπτων)
+cache.tti=Μέγιστο ρελαντί (χιλιοστά δευτερολέπτων)
+cache.clustered=ομαδοποιημένα
+caches.title=Επισκόπηση των κρυφών μνήμων
+confirm.emptycache=Θέλετε να διαγράψετε όλες τις καταχωρήσεις σε αυτήν την προσωρινή μνήμη;

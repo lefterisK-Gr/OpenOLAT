@@ -1,0 +1,13 @@
+catalogue=Κατάλογος
+course=σειρά μαθημάτων
+email=ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ
+institution.description=Το πανεπιστήμιο στο οποίο είστε εγγεγραμμένος στο OLAT.
+institutionPortlet.polymorphLink=Εδώ είναι η αρχή \!
+institution.title=Το κολλέγιό μου
+phone=τηλέφωνο
+noinstitution=Το Πανεπιστήμιο δεν βρέθηκε στο σύστημα
+url=Ιστός
+supervisor=Η περιφερειακή μου φροντίδα
+warn.cantlaunch=Δυστυχώς, ο σύνδεσμος δεν είναι έγκυρος. Ενημερώστε την περιφερειακή υποστήριξη.
+stextintro=
+blog=blog

@@ -1,0 +1,15 @@
+admin.menu.title=Analytics
+analytics.title=Ενότητα Analytics
+admin.menu.title.alt=Ανάλυση της συμπεριφοράς των χρηστών
+analytics.privacy=Θα θέλαμε να επισημάνουμε ότι εσείς, ως διαχειριστής της πλατφόρμας, είστε υποχρεωμένοι να ενημερώνετε τους χρήστες σας για τη χρήση μιας υπηρεσίας αναλυτικών στοιχείων.
+analytics.desc=Επιλέξτε μια προαιρετική υπηρεσία αναλυτικών στοιχείων για να αξιολογήσετε τη συμπεριφορά των χρηστών σε έναν εξωτερικό διακομιστή αναλυτικών στοιχείων.
+analytics.service=Υπηρεσία Analytics
+analytics.disabled=Μην χρησιμοποιείτε μονάδες ανάλυσης
+analytics.google.title=Διαμόρφωση Google Analytics
+analytics.google.tracking.id=αναγνωριστικό παρακολούθησης
+matomo.title=Matomo (Piwik)
+matomo.desc=Περιγραφή Matomo
+analytics.google.desc=Εάν διαθέτετε λογαριασμό Google Analytics, μπορείτε να εισαγάγετε το αναγνωριστικό παρακολούθησης Google εδώ για να λαμβάνετε λεπτομερείς στατιστικές και αξιολογήσεις σε πραγματικό χρόνο σχετικά με τη χρήση της εγκατάστασης OpenOlat.
+matomo.site.id=SiteID
+matomo.tracker.code=Κώδικας παρακολούθησης JavaScript
+matomo.tracker.url=Matomo URL

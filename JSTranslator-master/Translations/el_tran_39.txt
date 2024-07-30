@@ -1,0 +1,3 @@
+portlet.no_messages=Δεν υπάρχουν ειδοποιήσεις
+portlet.showall=Προβολή όλων
+portlet.title=ανακοινώσεις

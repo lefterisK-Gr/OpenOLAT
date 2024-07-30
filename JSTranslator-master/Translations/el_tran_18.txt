@@ -1,0 +1,17 @@
+registration.email=Διεύθυνση ηλεκτρονικού ταχυδρομείου
+registration.email.error=Παρακαλώ εισάγετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου.
+registration.addToAnnounceListSelection=Ενημερωθείτε για νέες εκδόσεις και ενημερώσεις ασφαλείας
+registration.location=Τοποθεσία παράδειγμα
+registration.location.example=π.χ. Winterthurerstrasse 190, Ζυρίχη
+registration.publishWebSiteSelection=Δημοσιεύστε την εγκατάσταση {0} στο openolat.org
+registration.sendAnonymousStatisticSelection=Μεταφορά στατιστικών δεδομένων ανώνυμα στο openolat.org (συνιστάται)
+registration.statistics=Το OpenOlat είναι ανοιχτού κώδικα και χρειάζεται μια ενεργή κοινότητα χρηστών. Μπορείτε να κάνετε τη συνεισφορά σας καταχωρώντας την εγκατάσταση του OpenOlat στον διακομιστή openolat.org και στέλνοντάς μας ανώνυμα κάποιες στατιστικές πληροφορίες σχετικά με τον αριθμό των χρηστών, τα μαθήματα κ.λπ. Αυτά τα δεδομένα δεν σχετίζονται με την εγκατάστασή σας, αλλά χρησιμοποιούνται μόνο για την καλύτερη τεκμηρίωση της χρήσης του OpenOlat.
+registration.sustainability=Τελευταίο αλλά εξίσου σημαντικό, μια εγγραφή είναι προς το συμφέρον σας, γιατί κάθε γνωστή εγκατάσταση αυξάνει τη σημασία του OpenOlat και, επομένως, συνεισφέρει στη βιωσιμότητα των επενδύσεών σας.
+registration.title=εγγραφή συστήματος
+registration.thanks=Σας ευχαριστούμε για την υποστήριξή σας\! Δείτε {0} για περισσότερες πληροφορίες.
+registration.summary=Τα ακόλουθα δεδομένα μεταφέρονται στο openolat.org\:
+registration.title.registered=Σας ευχαριστούμε για την εγγραφή στο OpenOlat\!
+registration.title.partialregistered=Σας ευχαριστούμε που παρείχατε τα δεδομένα σας ανώνυμα.<br> Θέλετε να δημοσιεύσετε την εγκατάστασή σας στο openolat.org;
+registration.title.notregistered=Παρακαλούμε δηλώστε την εγκατάσταση του OpenOlat και βοηθήστε μας να διαδώσουμε περαιτέρω το OpenOlat\!
+registration.webSiteDescription=Περιγραφή για {0}
+registration.website=Μπορείτε επίσης να μας δώσετε την άδεια να δημοσιεύσουμε τη διεύθυνση URL της εγκατάστασης του OpenOlat στο openolat.org. Βοήθεια για να δείξουμε πού χρησιμοποιείται το OpenOlat\!

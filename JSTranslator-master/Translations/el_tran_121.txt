@@ -1,0 +1,13 @@
+command.new_db=Δημιουργία νέας βάσης δεδομένων
+customDb.create=Δημιουργώ
+customDb.custom_db=βάσεις δεδομένων
+customDb.reset=Επαναφορά
+customDb.export=Εξαγωγή
+customDb.category=Επώνυμο
+customDb.entry.identity=χρήστης
+customDb.entry.name=Επώνυμο
+customDb.entry.value=αξία
+customDb.export.failed=
+customDb.url=URL
+main.menu.title=βάσεις δεδομένων
+main.menu.title.alt=Βάσεις δεδομένων μαθημάτων

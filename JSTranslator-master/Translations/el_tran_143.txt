@@ -1,0 +1,27 @@
+edubase.book.section.description=διάβασε δουλειά
+edubase.book.section.id=Αναγνωριστικό Edubase
+edubase.book.section.details=Λεπτομέριες
+edubase.book.section.details.title=τίτλος
+edubase.book.section.details.authors=συγγραφείς
+edubase.book.section.id.help=Μπορείτε να βρείτε το αναγνωριστικό Edubase στη διεύθυνση app.edubase.ch. Αντιστοιχεί στον αριθμό μεταξύ "#doc/" και "/" στη διεύθυνση URL ενός βιβλίου. Παράδειγμα: 16137 στη διεύθυνση URL https://app.edubase.ch/?lang=en#doc/ <b>16137</b> /1. Μπορείτε επίσης να αντιγράψετε ολόκληρη τη διεύθυνση URL σε αυτό το πεδίο. Στη συνέχεια, το OpenOlat θα καθορίσει αυτόματα και θα εισαγάγει το αναγνωριστικό Edubase.
+edubase.book.section.details.subtitle=υπότιτλος
+edubase.book.section.details.publisher=εκδότης
+edubase.book.section.details.edition=παραγωγή
+edubase.book.section.details.number.pages=Αριθμός σελίδων
+edubase.book.section.details.description=περιγραφή
+edubase.book.section.details.isbn=ISBN
+edubase.book.section.details.form.title=λεπτομέρειες βιβλίου
+edubase.book.section.page.from=πλευρά του
+edubase.book.section.details.use.title=Αποδοχή τίτλου
+edubase.book.section.page.to=σελίδα προς τα πάνω
+edubase.book.section.page.from.to=Σελίδα {0} έως {1}
+edubase.book.section.title=τίτλος βιβλίου
+edubase.with.description.enabled=διάβασε δουλειά
+form.error.wrong.int=Λανθασμένη μορφή αριθμού. Παραδείγματα\: 2, 10, 144
+form.error.page.to.higher.from=Η σελίδα προς πρέπει να είναι μεγαλύτερη από τη σελίδα από
+link.text=edubase
+form.error.wrong.section.id=Μη έγκυρη τιμή
+open.document=Άνοιγμα εγγράφου
+pane.tab.config=Ρυθμίσεις
+pane.tab.book.section.list=αποσπάσματα βιβλίων
+peekview.allItemsLink=Όλες οι συμμετοχές

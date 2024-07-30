@@ -1,0 +1,5 @@
+olatmatheditor.formulaTabTitle=τύπος
+olatmatheditor.latexGroupTitle=Κόμμι
+olatmatheditor.title=συντάκτης τύπων
+olatmatheditor.previewGroupTitle=προεπισκόπηση
+olatmatheditor.desc=Εισαγωγή μαθηματικού τύπου

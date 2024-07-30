@@ -1,0 +1,3 @@
+briefcase.title=Φάκελος ρυθμίσεων
+thumbnails.reset=Διαγραφή μικρογραφιών
+thumbnails.reset.intro.1=Με αυτό το κουμπί θα διαγραφούν όλες οι μικρογραφίες.

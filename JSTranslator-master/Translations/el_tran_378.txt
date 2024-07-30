@@ -1,0 +1,17 @@
+vfs.overview.action=δράση
+vfs.overview.amount=Ποσότητα
+vfs.overview.files=Αρχεία *
+vfs.overview.name=Επώνυμο
+vfs.overview.files.note=* Δεν περιέχει διαγραμμένα αρχεία, εκδόσεις ή μικρογραφίες
+vfs.overview.fileslink=Εμφάνιση μεγάλων αρχείων
+vfs.overview.size=μεγέθη
+vfs.overview.thumbnaillink=Επαναφορά μικρογραφιών
+vfs.overview.title=περίληψη
+vfs.overview.thumbnails=μικρογραφίες
+vfs.overview.total=σύνολο
+vfs.overview.thumbnails.reset.title=Επαναφορά μικρογραφιών
+vfs.overview.thumbnails.reset.confirm=Επαναφορά όλων των μικρογραφιών;
+vfs.overview.trashlink=Εμφάνιση διαγραμμένων αρχείων
+vfs.overview.trash=Διαγράφηκε
+vfs.overview.versions=εκδόσεις
+vfs.overview.versionslink=Εμφάνιση ρυθμίσεων έκδοσης

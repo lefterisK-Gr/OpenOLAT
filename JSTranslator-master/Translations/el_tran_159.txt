@@ -1,0 +1,9 @@
+pane.tab.vcconfig=χώρος
+error.vmsNotAvailable=$org.olat.modules.openmeetings.ui\:error.notAvailable
+table.empty=$org.olat.modules.openmeetings.ui\:table.empty
+title_vc=OpenMeetings
+guestnoaccess.title=$org.olat.course.nodes\:guestnoaccess.title
+guestnoaccess.message=$org.olat.course.nodes\:guestnoaccess.message
+create.room=δημιουργήστε δωμάτιο
+edit.room=Προσαρμόστε τις ρυθμίσεις δωματίου
+create.room.desc=Για να δημοσιεύσετε το στοιχείο μαθήματος OpenMeetings και έτσι να μπορείτε να πραγματοποιείτε εικονικές συσκέψεις, πρέπει πρώτα να δημιουργήσετε μια αίθουσα OpenMeetings και να τη διαμορφώσετε. Επιλέξτε το κουμπί παρακάτω για να ξεκινήσει αυτή η διαδικασία.

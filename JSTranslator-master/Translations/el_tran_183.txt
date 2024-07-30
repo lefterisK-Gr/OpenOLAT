@@ -1,0 +1,6 @@
+qti.objectives=περιγραφή
+fr.size=Μέγεθος
+fr.last=Τελευταία αλλαγή
+qti.questions=αριθμός ερωτήσεων
+qti.title=τίτλος
+qti.timelimit=Χρονικός Περιορισμός

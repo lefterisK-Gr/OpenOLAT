@@ -1,0 +1,14 @@
+site.icon=Εικονίδιο CSS Class
+admin.menu.title=σελίδα πληροφοριών
+site.language=Γλώσσα
+site.title=τίτλος
+site.enable.toolbar=Εμφάνιση γραμμής εργαλείων μαθημάτων για όλους
+site.course=σειρά μαθημάτων
+site.course.title=Τίτλος της μαθησιακής πηγής
+site.default.language=Προκαθορισμένο
+site.courses=ΚΥΚΛΟΣ ΜΑΘΗΜΑΤΩΝ
+site.course.id=OpenOlat Soft ID
+remove=Αφαιρώ
+course.site.no.access.title=Καμία πρόσβαση
+choose=Επιλέγω
+course.site.no.access.text=Δεν έχετε πρόσβαση σε αυτή τη σελίδα. Είτε λείπει ένα διαμορφωμένο μάθημα είτε οι άδειές σας δεν επαρκούν.

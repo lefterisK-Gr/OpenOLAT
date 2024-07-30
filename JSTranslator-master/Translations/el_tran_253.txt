@@ -1,0 +1,12 @@
+author.choose.title=Επιλέξτε συγγραφείς
+author.confirm.title=Επιβεβαιώνω
+author.item=συγγραφείς
+export.overview=Ελεγχος
+export.outcome.download.IMS_QTI_1.2=Αρχείο δοκιμής QTI 1.2 για ανταλλαγή με άλλο συμβατό LMS
+export.outcome.download.IMS_QTI_2.1=Αρχείο δοκιμής QTI 2.1 για ανταλλαγή με άλλο συμβατό LMS
+exportable=Δυνατότητα εξαγωγής
+export.type.desc=Οι ερωτήσεις μπορούν να εξαχθούν σε διαφορετικές μορφές. Επιλέξτε τη μορφή που θέλετε από την παρακάτω λίστα.
+table.user.login=$org.olat.admin.user\:table.user.login
+export.outcome.download.Docx=Αρχείο Word για εξέταση εκτός σύνδεσης (συμπεριλαμβάνεται φύλλο διόρθωσης)
+export.outcome.download.Zip=Αρχείο ZIP για ανταλλαγή με άλλα συστήματα OpenOlat ή αρχειοθέτηση
+export.type=Τύπος

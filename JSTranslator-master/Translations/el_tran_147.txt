@@ -1,0 +1,10 @@
+pane.tab.feed=Εκπαιδευτικό περιεχόμενο Podcast
+form.title.choose.feed=Επιλέξτε podcast
+chosen.feed=Επιλεγμένο podcast
+no.feed.chosen=<i>Δεν έχει επιλεγεί περιεχόμενο εκμάθησης podcast</i>
+button.change.feed=Εναλλαγή podcast
+button.choose.feed=Επιλέξτε podcast
+button.create.feed=Επιλέξτε, δημιουργήστε ή εισαγάγετε ένα podcast
+error.no.reference.long=Για το "{0}" πρέπει να επιλεγεί ένα podcast στην καρτέλα "Περιεχόμενο εκμάθησης podcast" στη διαμόρφωση.
+error.no.reference.short=Δεν έχει επιλεγεί ακόμα podcast για το "{0}".
+error.repository.entry.missing=Το εκπαιδευτικό περιεχόμενο podcast που προσπαθείτε να προβάλετε έχει διαγραφεί από τον Κάδο Πόρων Εκμάθησης στο μεταξύ

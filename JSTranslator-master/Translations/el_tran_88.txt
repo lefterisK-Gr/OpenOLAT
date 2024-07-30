@@ -1,0 +1,4 @@
+autocomplete.searching=Ερευνητικός...
+autocomplete.noresults=Δεν βρέθηκαν αποτελέσματα αναζήτησης
+autocomplete.not.enough.chars=Εισαγάγετε τουλάχιστον τρεις χαρακτήρες.
+autocomplete.error=Παρουσιάστηκε σφάλμα κατά την αναζήτηση.

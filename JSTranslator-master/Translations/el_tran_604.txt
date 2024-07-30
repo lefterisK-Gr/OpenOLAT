@@ -1,0 +1,3 @@
+absence.dates=ημερομηνία
+absence.dates.separator=μέχρι
+absence.restrict.resource=Περιορισμός σε πόρους

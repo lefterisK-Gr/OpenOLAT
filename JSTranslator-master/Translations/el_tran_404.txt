@@ -1,0 +1,8 @@
+debug=εντοπισμός σφαλμάτων
+debugView=εντοπισμός σφαλμάτων
+showComponentTree=συστατικό δέντρο
+devTool=εργαλείο ανάπτυξης
+web10=web 1.0
+web20=web 2.0
+jsource=Δείτε τον πηγαίο κώδικα Java
+vsource=Προβολή πηγαίου κώδικα ταχύτητας

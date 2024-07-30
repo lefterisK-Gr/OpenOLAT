@@ -1,0 +1,13 @@
+form.addusers=όνομα χρήστη
+form.names.example=Εισαγάγετε ένα όνομα ανά γραμμή\:<br> Διαχειριστής<br> συγγραφέας<br> χρήστης 5<br> Και τα λοιπά.
+import.title.email=Ειδοποίηση ηλεκτρονικού ταχυδρομείου
+import.success=Οι χρήστες έχουν προστεθεί στην ομάδα.
+import.title=Προσθέστε πολλούς χρήστες στην ομάδα
+import.intro=Εισαγάγετε το όνομα χρήστη OLAT στο παρακάτω πεδίο για να το προσθέσετε στην ομάδα. Ένα όνομα χρήστη ανά γραμμή.
+import.title.finish=Ελεγχος
+import.title.finish.alreadyin=Οι ακόλουθοι χρήστες είναι ήδη στην ομάδα\:
+import.title.finish.create=Βρέθηκαν οι ακόλουθοι χρήστες\:
+import.title.finish.isanonymous=Προσκεκλημένοι χρήστες δεν προστίθενται\:
+import.title.finish.notfound=Δεν βρέθηκαν οι ακόλουθοι χρήστες\:
+import.title.select=Καθορίστε το όνομα χρήστη
+submit.add=Προσθήκη

@@ -1,0 +1,9 @@
+admin.menu.youtube.title.alt=YouTube API
+admin.menu.youtube.title=YouTube API
+api.check=Ελέγξτε το κλειδί API
+api.check.failed=Το OpenOlat δεν μπορεί να διαβάσει δεδομένα από το Youtube API.
+api.check.success=Επιτυχής δοκιμή. Το OpenOlat επιτρέπεται να έχει πρόσβαση στο Youtube API.
+api.configuration.explain=
+api.configuration=Διαμόρφωση Youtube API
+api.key=Κλειδί API
+api.remove=Αφαιρέστε το κλειδί

@@ -1,0 +1,14 @@
+download.example=Πρότυπο εισαγωγής Excel
+wizard.import.input.title=εισαγωγή δεδομένων
+wizard.import.overview.title=ΣΦΑΙΡΙΚΗ ΕΙΚΟΝΑ
+wizard.import.input.description=Εισαγάγετε ερωτήσεις που έχετε δημιουργήσει με βάση το παρακάτω πρότυπο μέσω αντιγραφής και επικόλλησης. Επιλέξτε τις τρεις πρώτες στήλες στο αρχείο Excel και επικολλήστε τις στη μάσκα εισόδου.
+input.title=εισαγωγή δεδομένων
+table.header.status=κατάσταση
+form.importdata=Αντιγράφηκαν σειρές από το αρχείο Excel (χωρισμένα με κόμματα)
+table.header.type=ΕΙΔΟΣ ΕΡΩΤΗΣΗΣ
+table.header.title=Τίτλος
+table.header.points=Πόντοι
+item.type.fib=$org.olat.ims.qti.editor\:item.type.fib
+item.type.mc=$org.olat.ims.qti.editor\:item.type.mc
+item.type.sc=$org.olat.ims.qti.editor\:item.type.sc
+error.format.number=Μη έγκυρος αριθμός. Πρέπει να εισαχθεί ένας αριθμός. {0}

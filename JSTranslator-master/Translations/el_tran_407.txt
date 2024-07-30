@@ -1,0 +1,3 @@
+logviewer.link.start=αρχίσει
+logviewer.link.clear=Διαγράφω
+logviewer.link.stop=να σταματήσει

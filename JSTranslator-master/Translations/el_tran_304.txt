@@ -1,0 +1,7 @@
+no.need.to.translate.this=απλά μια δοκιμή
+really=μην το μεταφράσεις
+recursive.test=Γεια σας κόσμο, αυτό είναι το $org.olat.core.util.i18n.junittestdata\:no.need.to.translate.this
+recursive.test2=Γεια σας, αυτό είναι το $org.olat.core.util.i18n.junittestdata\:no.need.to.translate.this ($org.olat.core.util.i18n.junittestdata\:really)
+recursive.test3=Γεια σας, αυτό είναι το $org.olat.core.util.i18n.junittestdata\:no.need.to.translate.this. Πραγματικά $org.olat.core.util.i18n.junittestdata\:πραγματικά, γιατί αυτό είναι το $org.olat.core.util.i18n.junittestdata.subtest\:no.need.to.translate.this.
+recursive.test4=Γεια σου κόσμο, αυτό είναι το ober${org.olat.core.util.i18n.junittestdata\:super}duper
+recursive.test5=Βρόχος $org.olat.core.util.i18n.junittestdata.subtest\:recursive.test5

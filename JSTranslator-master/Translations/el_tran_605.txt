@@ -1,0 +1,10 @@
+change.providers=Είσοδος
+authentications.title=πιστοποιήσεις ταυτότητας
+edit.title=Για να επεξεργαστείτε
+change.providers.on=Προσαρμογή ονόματος σύνδεσης
+change.username.title=Αλλαγή ονόματος χρήστη
+general.error.unique=$org.olat.user.propertyhandlers\:general.error.unique
+login=$org.olat.admin.user\:table.auth.login
+table.auth.login=Όνομα σύνδεσης
+provider=$org.olat.admin.user\:table.auth.provider
+username=$org.olat.admin.user\:form.username

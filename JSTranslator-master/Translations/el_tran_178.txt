@@ -1,0 +1,16 @@
+statistic.chart.intro=Αυτό το γράφημα δείχνει όλες τις επιτυχίες {0} με βάση όλα τα διαθέσιμα δεδομένα του μαθήματος ανά ημέρα της εβδομάδας.
+menu.createstatfile.alt=Εμφάνιση στατιστικών ανά ημέρα της εβδομάδας
+statistic.chart.pernode.intro=Αυτό το γραφικό δείχνει όλες τις προσβάσεις στα στοιχεία του μαθήματος σε ένα {0}.
+statistic.intro=Αυτό το στατιστικό δείχνει όλες τις προσβάσεις στα στοιχεία του μαθήματος με βάση όλες τις διαθέσιμες ημερομηνίες μαθημάτων ομαδοποιημένες ανά ημέρα της εβδομάδας.
+stat.table.header.total=Σύνολο
+statistic.chart.pernode.total.intro=Αυτό το γράφημα δείχνει όλη την πρόσβαση στα στοιχεία του μαθήματος με βάση όλα τα διαθέσιμα δεδομένα του μαθήματος.
+stat.table.header.node=στοιχείο του μαθήματος
+stat.table.header.day1=Κυριακή
+stat.table.header.day2=Δευτέρα
+menu.createstatfile=Ανά εβδομάδα
+stat.table.header.day3=Τρίτη
+stat.table.header.day4=Τετάρτη
+stat.table.header.day6=Παρασκευή
+stat.table.header.day5=Πέμπτη
+stat.table.header.day7=Σάββατο
+statistic.title=Στατιστικά ανά ημέρα

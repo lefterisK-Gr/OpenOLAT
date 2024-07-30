@@ -1,0 +1,14 @@
+configuration.template=Ρυθμίσεις
+checkbox.template=Πρότυπο λίστας ελέγχου
+checkbox.template.description=Δημιουργήστε ένα πρότυπο λίστας ελέγχου. Αυτό χρησιμοποιείται κατά τη δημιουργία των λιστών ελέγχου.
+metadatas.details=τίτλος και ημερομηνία
+configuration.template.description=Σε αυτό το βήμα, καθορίστε πόσες λίστες ελέγχου θα δημιουργηθούν χρησιμοποιώντας το πρότυπο. Ο τίτλος συμπληρώνεται με τον τρέχοντα αριθμό λειτουργίας.
+metadatas.details.description=Προσαρμόστε τους τίτλους που δημιουργούνται και προσθέστε μια ημερομηνία λήξης.
+structurenode.configuration=δομικά δεδομένα
+structurenode.configuration.description=Εισαγάγετε τις πληροφορίες σχετικά με το μπλοκ γονικής δομής που θα περιέχει τις λίστες ελέγχου που δημιουργήθηκαν πρόσφατα. Μπορείτε να αλλάξετε τα δεδομένα αργότερα ανά πάσα στιγμή απευθείας στο μπλοκ.
+nodeConfigForm.menutitle=$org.olat.course.editor\:nodeConfigForm.menutitle
+nodeConfigForm.displaytitle=$org.olat.course.editor\:nodeConfigForm.displaytitle
+nodeConfigForm.learningobjectives=$org.olat.course.editor\:nodeConfigForm.learningobjectives
+error.needone.checklist=Χρειάζεστε τουλάχιστον ένα πλαίσιο ελέγχου
+points.sum.checklists=Συνολικές λίστες ελέγχου
+scform.passedtype.inherit=$org.olat.course.nodes.st\:scform.passedtype.inherit

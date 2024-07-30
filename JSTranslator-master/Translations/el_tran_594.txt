@@ -1,0 +1,9 @@
+accesscontrol.token=Κωδικός πρόσβασης
+access.token.title=Προστατευμένος πόρος
+access.button=Βιβλίο
+token.method=Κωδικός πρόσβασης
+access.token.desc=Αυτός ο πόρος προστατεύεται με κωδικό πρόσβασης. Εισαγάγετε έναν κωδικό πρόσβασης και επιλέξτε το κουμπί "$:access.button" για να εγγραφείτε για πρόσβαση. Μπορείτε να λάβετε τον κωδικό πρόσβασης από τον χειριστή αυτού του πόρου.
+offer.description=$org.olat.resource.accesscontrol.ui\:offer.description
+invalid.token=Λανθασμένος κωδικός πρόσβασης
+create=$org.olat.resource.accesscontrol.ui\:create
+invalid.token.format=Ο κωδικός πρόσβασης πρέπει να αποτελείται από τουλάχιστον δύο χαρακτήρες

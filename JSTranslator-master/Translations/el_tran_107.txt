@@ -1,0 +1,11 @@
+action=δράση
+table.header.name=Επώνυμο
+table.header.description=περιγραφή
+course.areas.title=Τομέας μάθησης εντός του μαθήματος
+delete=Διαγράφω
+edit=επεξεργασία
+course.areas.description=Πατήστε το παρακάτω κουμπί για να δημιουργήσετε έναν νέο χώρο εκμάθησης για αυτό το μάθημα:
+create.area=Δημιουργήστε χώρο μάθησης
+delete.area.title=Διαγραφή χώρου εκμάθησης
+delete.area.description=Θέλετε πραγματικά να διαγράψετε την περιοχή εκμάθησης "{0}";
+resources.noresources=Δεν έχουν δημιουργηθεί περιοχές μάθησης σε αυτό το μάθημα.

@@ -1,0 +1,17 @@
+calendar.date=ημερομηνία
+calendar.subject=περιγραφή
+calendar.title=Ημερολόγιο
+calendar.noEvents=Κανένα ραντεβού στην καθορισμένη περίοδο
+calendar.today=σήμερα
+condition.accessibility.title=Ανάγνωση
+condition.editable.title=Επεξεργασία / δημιουργία συνάντησης
+config.role.coach=Επόπτης
+config.edit=Επεξεργασία συναντήσεων
+config.role.participant=συνδρομητής
+config.rights=Δικαιώματα χρήστη
+pane.tab.accessibility=Πρόσβαση
+pane.tab.auto_date=Σημερινή ημερομηνία
+fhelp.start_date=Επιλέξτε εάν θα εμφανίζεται η τρέχουσα ημερολογιακή εβδομάδα ή μια σταθερή ημερομηνία, όπως μια ειδική εβδομάδα σεμιναρίων.
+pane.tab.calconfig=διαμόρφωση ημερολογίου
+pane.tab.start_date=Ημερομηνία εμφάνισης
+pane.tab.manual_date=Επιλέξτε μια σταθερή ημερομηνία

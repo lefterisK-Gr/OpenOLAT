@@ -1,0 +1,11 @@
+error.pageeditedby=Η σελίδα επεξεργάζεται αυτήν τη στιγμή ο χρήστης {0}. Παρακαλώ προσπάθησε ξανά αργότερα.
+error.notsupportedcharset=Το έγγραφο δεν μπορεί να αποθηκευτεί επειδή αποθηκεύεται σε ένα σύνολο χαρακτήρων που δεν υποστηρίζεται από το σύστημα\: Το σύνολο χαρακτήρων είναι "{0}"Τα ακόλουθα υποστηρίζονται από το σύστημα\:<br><br> {1})
+filechooser.upload.title=Ανέβασμα αρχείου
+filechooser.select.title=Επιλέξτε υπάρχον αρχείο
+filechooser.select.internallink.title=Επιλέξτε εσωτερικό σύνδεσμο
+linkchooser.tabbedpane.label.filechooser=σύνδεση αρχείων
+linkchooser.select.title=Επιλέξτε σύνδεσμο
+linkchooser.tabbedpane.label.internallinkchooser=Σύνδεση κόμβου μαθήματος
+linkchooser.tabbedpane.label.internaltoolchooser=Σύνδεσμος εργαλείου μαθήματος
+selectfile=Επιλέγω
+upload.error.incorrect.filetype=Το έγγραφο που έχει μεταφορτωθεί είναι λάθος τύπου ({0}). Επιτρέπονται αρχεία με τις ακόλουθες επεκτάσεις: {1}

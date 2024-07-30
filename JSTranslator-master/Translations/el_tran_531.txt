@@ -1,0 +1,2 @@
+curriculum.foreign.entries=Άλλα μαθήματα
+curriculum.toggle.description=Εμφάνιση της δομής του προγράμματος σπουδών

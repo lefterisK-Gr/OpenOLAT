@@ -1,0 +1,7 @@
+pane.tab.config=Ρυθμίσεις
+config.edit.topic=επεξεργασία θέματος
+config.edit.appointment=Επεξεργασία συναντήσεων
+role.coach=Επόπτης
+no.outstanding.appointments=Δεν έχετε προσεχή ραντεβού.
+title.appointment=χρονοδρομολόγηση
+user.rights=Δικαιώματα χρήστη

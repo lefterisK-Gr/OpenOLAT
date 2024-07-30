@@ -1,0 +1,15 @@
+course.layout.selector=Επιλέξτε πρότυπο διάταξης για το μάθημα
+course.layout.default=Προκαθορισμένο
+course.layout.legacy=Από τον φάκελο αποθήκευσης μαθημάτων {0}
+course.layout.custom=Εθιμο...
+course.layout.template=Πρότυπο συστήματος {0}
+upload.second.logo=Μεταφόρτωση λογότυπου
+course.layout.predefined=πρότυπο μαθήματος
+course.layout.save=Αποθήκευση στον υπολογιστή
+logo.image.label=Λογότυπο για την κεφαλίδα
+logo.delete=Διαγράφω
+logo.file.type.error=Ανεβάστε ένα αρχείο εικόνας ως λογότυπο (π.χ. png, gif, jpg)!
+logo.size.error=Το μεταφορτωμένο αρχείο είναι πολύ μεγάλο, χρησιμοποιήστε ένα μικρότερο λογότυπο.
+preview.image.label=προεπισκόπηση
+logo.upload.success=Η εικόνα αποθηκεύτηκε με επιτυχία.
+logo.upload.error=Δεν ήταν δυνατή η αποθήκευση της εικόνας, δοκιμάστε μια διαφορετική εικόνα.

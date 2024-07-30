@@ -1,0 +1,2 @@
+selectiontree.noentries=<i>Δεν υπάρχουν διαθέσιμες καταχωρήσεις.</i>
+insertion.point=Θα προσγειωθεί εδώ

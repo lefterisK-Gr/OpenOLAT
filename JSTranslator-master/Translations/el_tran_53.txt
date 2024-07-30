@@ -1,0 +1,4 @@
+notifications.entry=Το αρχείο "{0}" από {1} άλλαξε
+notifications.header.group=Φάκελος στην ομάδα "{0}"
+notifications.header.course=Φάκελος στο μάθημα "{0}"
+notifications.header=Υπάρχουν νέα αρχεία σε έναν φάκελο στον οποίο έχετε εγγραφεί\:

@@ -1,0 +1,8 @@
+condition.accessibility.title=Πρόσβαση
+guest.allowed=πρόσβαση
+pane.tab.vcconfig=Ρυθμίσεις
+moderator.start.meeting=Ανοιχτή συνάντηση
+vc.access.label=Πρόσβαση
+title_vc=BigBlueButton
+vc.options.label=εξουσιοδότηση πρόσβασης
+vc.access.start=Μόνο οι συντονιστές επιτρέπεται να ανοίγουν αυτήν την αίθουσα

@@ -1,0 +1,10 @@
+table.header.date=ημερομηνία
+table.header.action=δράση
+table.header.value=αξία
+table.header.key=κλειδί
+talkback.title=Ολοκλήρωση της εκπαιδευτικής ενότητας
+talkback.msg=Μήνυμα
+talkback.info=Επιστρέψατε από την ενότητα εκμάθησης. Η εκπαιδευτική ενότητα παρείχε τις ακόλουθες πληροφορίες:
+talkback.errormsg=μήνυμα λάθους
+talkback.log=πρωτόκολλο
+talkback.errorlog=αρχείο καταγραφής σφαλμάτων

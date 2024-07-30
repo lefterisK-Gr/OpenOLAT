@@ -1,0 +1,7 @@
+richText.element.target.window.alwayssame=Να ανοίγετε πάντα τον σύνδεσμο στο ίδιο νέο παράθυρο
+left.clear=Έμεινε ξέπλυμα και μόνος
+left.clear.nomargin=Αριστερά στοίχιση με λεζάντα
+oneLine=μία γραμμή
+right.clear=Σωστό φλος και μόνος
+formatted=Μορφοποιημένο
+multiLine=Πολλαπλές γραμμές

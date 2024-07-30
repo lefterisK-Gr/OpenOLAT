@@ -1,0 +1,11 @@
+results.table.footer.sr=Σωστή απάντηση
+results.table.header.username=Ονομα χρήστη
+results.header=αποτελέσματα SCORM
+results.table.foot.cr=Απάντηση μαθητή
+results.table.header.lessonStatus=κατάσταση
+results.table.header.rawScore=συμπέρασμα
+results.table.header.totalTime=χρόνος
+results.table.header.itemId=SCO
+results.table.header.interaction=ερώτηση {0}
+results.table.header.comments=σχόλιο
+results.table.header.objective=στόχος βαθμολογίας {0}

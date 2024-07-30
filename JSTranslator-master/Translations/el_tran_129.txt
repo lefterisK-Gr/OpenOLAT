@@ -1,0 +1,14 @@
+error.positiv.int=$org.olat.course.learningpath.ui\:error.positiv.int
+error.course.locked=Αυτό το μάθημα επεξεργάζεται ήδη κάποιος άλλος. Αυτή η ρύθμιση δεν μπορεί να αλλάξει.
+settings.completion.type.confirmation.duration=$org.olat.course.learningpath.ui\:config.duration
+settings.completion.type.confirmation.info=Θέλετε πραγματικά να υπολογίσετε τη μαθησιακή πρόοδο με βάση την εκτιμώμενη διάρκεια των επιμέρους στοιχείων του μαθήματος; Σε αυτή την περίπτωση, ο χρόνος επεξεργασίας πρέπει να ορίζεται σε κάθε στοιχείο του μαθήματος. Εισαγάγετε εδώ μια αρχική τιμή, η οποία εισάγεται για στοιχεία μαθήματος χωρίς χρόνο επεξεργασίας.
+settings.completion.type.confirmation.title=Μέθοδος υπολογισμού της μαθησιακής προόδου
+settings.completion.type.number.of.nodes=Με βάση τον αριθμό των στοιχείων του μαθήματος
+settings.completion.type.duration=Με βάση το χρόνο επεξεργασίας των στοιχείων του μαθήματος
+settings.type=Τύπος
+settings.title=Πρόσβαση στα στοιχεία του μαθήματος
+settings.convert=Convert to Learning Path Course
+settings.completion.type=Υπολογίστε την πρόοδο της μάθησης
+unsupported.course.nodes.names=Μη υποστηριζόμενα στοιχεία μαθήματος
+unsupported.course.nodes.title=Μη υποστηριζόμενα στοιχεία μαθήματος
+unsupported.course.nodes.warning=Αυτό το μάθημα δεν μπορεί να μετατραπεί σε μάθημα διαδρομής μάθησης επειδή δεν υποστηρίζονται όλα τα υπάρχοντα στοιχεία του μαθήματος.

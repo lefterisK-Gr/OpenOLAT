@@ -1,0 +1,6 @@
+pane.tab.vcconfig=Ρυθμίσεις
+error.vmsNotAvailable=$org.olat.modules.vitero.ui\:error.vmsNotAvailable
+table.empty=$org.olat.modules.vitero.ui\:table.empty
+title_vc=βιτρό
+guestnoaccess.title=$org.olat.course.nodes\:guestnoaccess.title
+guestnoaccess.message=$org.olat.course.nodes\:guestnoaccess.message

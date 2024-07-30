@@ -1,0 +1,8 @@
+calendar.date=ημερομηνία
+calendar.showAll=Προβολή όλων
+calendar.subject=περιγραφή
+calendar.description=Το ημερολόγιο σάς δείχνει την τρέχουσα ημερομηνία. Επιλέξτε μια μέρα για να μεταβείτε στο προσωπικό σας ημερολόγιο.
+calendar.noEvents=Κανένα ραντεβού στην καθορισμένη περίοδο
+calendar.tomorrow.all.day=όλη μέρα
+calendar.today.all.day=Όλη μέρα σήμερα
+calendar.title=σήμερα

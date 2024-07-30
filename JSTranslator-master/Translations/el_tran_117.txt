@@ -1,0 +1,8 @@
+attribute.title.font=γραμματοσειρά
+attribute.title.size=Μέγεθος γραμματοσειράς
+attribute.title.color=χρώμα
+attribute.title.backgroundColor=χρώμα του φόντου
+attribute.title.preview=προεπισκόπηση
+preview.sample=Σύντομο κείμενο προεπισκόπησης
+color.hex.error=Αυτή η τιμή του εξαγωνικού χρώματος δεν είναι έγκυρη! Αρχισε με #.
+color.double.error=Επιλέξτε ένα χρώμα ή καθορίστε το εξάγωνο χρώμα, όχι και τα δύο!

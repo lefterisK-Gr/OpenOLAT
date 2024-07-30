@@ -1,0 +1,6 @@
+roles=ρολό
+table.header.role=ρολό
+source.organisation=Οργάνωση μετακίνησης
+target.organisation=Κατά οργάνωση
+wizard.choose.roles=Επιλέξτε ρόλους
+wizard.overview.title=Επιβεβαιώνω

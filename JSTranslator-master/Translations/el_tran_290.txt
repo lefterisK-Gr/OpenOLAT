@@ -1,0 +1,11 @@
+share.social=Κοινή χρήση συνδέσμου σε αυτήν τη σελίδα
+share.twitter=σύνδεσμος tweet
+share.facebook=Κοινή χρήση συνδέσμου στο facebook
+share.google=Σελιδοδείκτης συνδέσμου στο google
+share.delicious=Προσθέστε σελιδοδείκτη τον σύνδεσμο στο νόστιμο
+share.digg=Κοινή χρήση συνδέσμου στο digg
+share.link=αντιγραφή συνδέσμου
+share.qrcode=Αντιγράψτε τον κωδικό QR
+share.mail=Αποστολή συνδέσμου μέσω email
+landingpage.set.message=Η τρέχουσα σελίδα θα χρησιμοποιηθεί ως αρχική σελίδα την επόμενη φορά που θα συνδεθείτε.
+landingpage.set.current=Ορίστε την τρέχουσα σελίδα στο προφίλ ως προσωπική αρχική σελίδα

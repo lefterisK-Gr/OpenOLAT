@@ -1,0 +1,5 @@
+coursecreation.catalog.title=Εισαγάγετε το μάθημα στον κατάλογο
+coursecreation.catalog.description=Εισαγάγετε το νέο σας μάθημα στον κατάλογο.
+coursecreation.choosecourseelements.title=Επιλέξτε στοιχεία μαθήματος
+coursecreation.publish.title=Δημοσίευση μαθήματος
+coursecreation.publish.description=Καθορίστε τα δικαιώματα πρόσβασης για το νέο σας μάθημα και δημοσιεύστε το.

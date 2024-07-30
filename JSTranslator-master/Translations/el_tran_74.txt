@@ -1,0 +1,16 @@
+admin.menu.title=WebDAV
+admin.menu.title.alt=Πρόσβαση στο WebDAV
+core.webdav=WebDAV
+webdav.client.exclusion=Απαγόρευση πελάτη WebDAV
+admin.webdav.description=Χρησιμοποιώντας το WebDAV, μπορείτε να προβάλετε και να χρησιμοποιήσετε φακέλους OpenOlat στην τοπική επιφάνεια εργασίας σας, όπως τοπικούς φακέλους. Διαμορφώστε εάν αυτή η λειτουργία θα είναι διαθέσιμη σε όλους τους χρήστες σε όλο το σύστημα. Διαβάστε τη βοήθεια για τα συμφραζόμενα.
+webdav.curriculumelementsfolders=Ομαδοποίηση μαθημάτων κατά στοιχεία του προγράμματος σπουδών
+webdav.digest=Χρησιμοποιήστε τον έλεγχο ταυτότητας σύνοψης για πρόσβαση HTTP
+webdav.for.learners.participants=Πρόσβαση για μαθήματα σπουδαστών/επιβλέπων
+webdav.for.learners.bookmarks=Πρόσβαση στα αγαπημένα μαθητών/καθηγητών
+webdav.link=Εμφάνιση συνδέσμων WebDAV
+webdav.on=ένας
+webdav.managedfolders=Ομαδικά «Διαχειριζόμενα» μαθήματα
+webdav.module=Πρόσβαση στο WebDAV
+webdav.prepend.reference=Προσθήκη αναγνωριστικού στον τίτλο
+webdav.termsfolders=Ομαδικά μαθήματα κατά ημερομηνίες εξαμήνου
+webdav.user.agent.exclusion=Λίστα χρηστών-πρακτόρων (κόμμα ως διαχωριστικό)

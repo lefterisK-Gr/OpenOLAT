@@ -1,0 +1,17 @@
+configuration.properties.link=Μονάδα διαμόρφωσης
+filter.show.all=Ολα
+configuration.property.key=κλειδί
+configuration.property.value=τιμή διαμόρφωσης
+filter.show.redundant.only=Μόνο περιττές ιδιότητες
+main.menu.title=διαμορφώσεις
+filter.show.overwritten.only=Μόνο τοπικές ιδιοκτησίες
+olat.property.key=κλειδί
+main.menu.title.alt=Ρυθμίστε τις παραμέτρους έναρξης OLAT
+olat.local.properties.description=Οι τιμές διαμόρφωσης της μονάδας αντικαθιστούν όλες τις άλλες τιμές και διαβάζονται απευθείας από τα αρχεία.
+olat.property.redundancy=πλεονασμός
+olat.properties.description=Μια λίστα με όλα τα κλειδιά των τυπικών μεταβλητών. Olat.local.properties αντικαθιστούν τις μεταβλητές olat.properties και περιβάλλοντος αντικαθιστούν τις olat.local.properties.
+olat.property.overwrite.value=olat.local.properties
+olat.property.value=ολάτ.ιδιοκτησίες
+olat.system.property.value=μεταβλητή περιβάλλοντος
+setup.properties.link=Προεπιλεγμένες ιδιότητες
+overwrite.properties.not.found=Το αρχείο olat.local.properties δεν βρέθηκε στο classpath!

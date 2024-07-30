@@ -1,0 +1,4 @@
+step.two=Δεύτερο βήμα
+step.two.short.desc=επαλήθευση
+start.short.desc=κάντε εγγραφές
+start=αρχίσει

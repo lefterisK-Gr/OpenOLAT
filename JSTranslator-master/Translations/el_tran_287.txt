@@ -1,0 +1,15 @@
+DC.title=τίτλος
+DC.creator=συγγραφέας
+DC.Subject=θέμα
+DC.publisher=συντάκτης
+DC.description=Περίληψη
+DC.date=ημερομηνία
+DC.contributor=συνεισφέρων
+DC.source=πρωτότυπο
+DC.language=Γλώσσα
+DC.type=Είδος αρχείου
+DC.format=Τύπος πολυμέσων
+DC.identifier=αναγνωριστικό
+DC.relation=σχέση
+DC.rights=Συμφωνία άδειας
+DC.coverage=περιορισμός

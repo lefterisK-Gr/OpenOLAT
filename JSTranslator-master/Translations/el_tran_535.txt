@@ -1,0 +1,7 @@
+print.node=Τύπος
+previous=Πίσω
+print.node.list=σελίδα
+print.node.list.title=διαμόρφωση εκτύπωσης
+print.node.list.desc=Επιλέξτε μία ή περισσότερες σελίδες για εκτύπωση
+error.manifest.missing=Αυτό το περιεχόμενο εκμάθησης CP δεν είναι έγκυρο\: Λείπει το imsmanifest.xml. Για περισσότερες πληροφορίες, ανατρέξτε στο http\://www.imsglobal.org.
+error.manifest.corrupted=Αυτό το περιεχόμενο εκμάθησης CP δεν είναι έγκυρο\: το imsmanifest.xml δεν είναι έγκυρο. Για περισσότερες πληροφορίες, ανατρέξτε στο http\://www.imsglobal.org.

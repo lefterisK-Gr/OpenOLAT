@@ -1,0 +1,19 @@
+add.confirm.title=Ελεγχος
+add.roles.title=ρολό
+add.import.title=αναζήτηση χρηστών
+add.relations=Προσθήκη νέας σχέσης
+confirm.remove.relation.text.plural=Είστε βέβαιοι ότι θέλετε να καταργήσετε <strong>τις σχέσεις {0}</strong> ;
+confirm.remove.relation.text.singular=Είστε βέβαιοι ότι θέλετε να καταργήσετε τη <strong>σχέση {0}</strong> ;
+confirm.remove.relation.title=αφαιρέστε σχέσεις
+relation.roles=ρολό
+form.names.example=δοκιμή01<br/> συγγραφέας02<br/> $org.olat.user.propertyhandlers\:import.example.institutionalUserIdentifier
+form.addrelations=Όνομα χρήστη, $org.olat.user.propertyhandlers\:table.name.email ή $org.olat.user.propertyhandlers\:table.name.institutionalUserIdentifier
+import.relations=Σχέσεις εισαγωγής
+remove=Αφαιρώ
+table.header.managed=<i class\='o_icon o_icon_managed'> </i>
+relation.roles.description=Επιλέξτε μία ή περισσότερες σχέσεις ή αντισχέσεις. Οι επιλεγμένοι χρήστες θα είναι... από {0}.
+table.header.name=Επώνυμο
+table.header.key=ταυτότητα
+table.header.role=ρόλος
+table.header.username=Ονομα χρήστη
+warning.at.least.one.relation=Πρέπει να επιλέξετε τουλάχιστον μία σχέση.

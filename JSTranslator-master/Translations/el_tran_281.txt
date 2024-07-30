@@ -1,0 +1,8 @@
+access.button=Βιβλίο
+free.method=Ελεύθερα διαθέσιμο
+access.free.title=Δωρεάν πόρος
+offer.description=$org.olat.resource.accesscontrol.ui\:offer.description
+access.free.desc=Αυτός ο πόρος είναι δωρεάν διαθέσιμος σε εσάς. Επιλέξτε το κουμπί "$:access.button" για να εγγραφείτε για πρόσβαση.
+create=$org.olat.resource.accesscontrol.ui\:create
+auto.booking=Αυτόματη κράτηση
+auto.booking.value=Εκτελέστε αυτόματα την κράτηση χωρίς παράθυρο διαλόγου κράτησης όταν καλείται το μάθημα.

@@ -1,0 +1,12 @@
+import.import.title=αναζήτηση χρηστών
+import.choose.title=$\:import.import.title
+import.mail.title=Ειδοποίηση ηλεκτρονικού ταχυδρομείου
+import.confirm.title=Ελεγχος
+import.permission.title=Άδειες
+form.names.example=δοκιμή01<br/> συγγραφέας02<br/> $org.olat.user.propertyhandlers\:import.example.institutionalUserIdentifier
+user.notfound=$org.olat.group.ui.main\:user.notfound
+table.user.login=$org.olat.group.ui.main\:table.header.login
+form.addusers=Όνομα χρήστη, $org.olat.user.propertyhandlers\:table.name.email ή $org.olat.user.propertyhandlers\:table.name.institutionalUserIdentifier
+error.select.role=Πρέπει να επιλέξετε τουλάχιστον έναν ρόλο
+warn.duplicates.select=Επιλέξτε τον χρήστη που θέλετε να προσθέσετε.
+warn.duplicates.names=Βρέθηκαν πολλοί χρήστες που ταιριάζουν με τα καθορισμένα κριτήρια "{0}".

@@ -1,0 +1,13 @@
+admin.menu.title=Κατάλογος
+admin.catalog.settings=Ρυθμίσεις καταλόγου
+admin.menu.title.alt=Κατάλογος
+catalog.add.multiple.entries=Προσθέστε πολλές καταχωρήσεις μαζί
+catalog.add.entry.position=Προσθήκη νέων καταχωρήσεων
+catalog.add.category.position=Προσθήκη νέων κατηγοριών
+catalog.add.position.alphabetical=Αυτόματη ταξινόμηση - αλφαβητικά
+catalog.add.position.bottom=Χειροκίνητη ταξινόμηση - Στο τέλος
+catalog.browsing=Κατάλογος σε "Μαθήματα"
+catalog.add.position.top=Χειροκίνητη ταξινόμηση - Στην αρχή
+catalog.site=Κατάλογος στον δικό του ιστότοπο
+catalog.enable=Ενεργοποιήστε τον Κατάλογο
+catalog.sort.completely=Ταξινόμηση καταλόγου αλφαβητικά

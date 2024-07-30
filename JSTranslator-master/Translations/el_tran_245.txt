@@ -1,0 +1,6 @@
+table.user.login=Ονομα χρήστη
+wizard.contact.title=Πληροφορώ
+user.confirm.title=Επιβεβαίωση
+wizard.reason.title=έδαφος
+user.search.title=αναζήτηση χρήστη
+wizard.lecture.title=Μαθήματα / Μαθήματα

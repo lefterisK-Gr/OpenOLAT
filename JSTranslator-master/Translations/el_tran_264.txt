@@ -1,0 +1,6 @@
+browserreq=Το Scorm Player απαιτεί τουλάχιστον το πρόγραμμα περιήγησης Internet Explorer 6.0, Mozilla 1.3 ή Firefox.
+scorm.course.completed=Το μάθημα έχει χαρακτηριστεί ως ολοκληρωμένο
+scorm.item.completed=Αυτό το τμήμα έχει επισημανθεί ως ολοκληρωμένο.
+scorm.item.has.preconditions=Αυτό το μέρος περιέχει προϋποθέσεις που δεν πληρούνται ακόμη.
+scorm.quit.player=Τέλος
+error.manifest.corrupted=Αυτό το εκπαιδευτικό περιεχόμενο SCORM δεν είναι έγκυρο\: το imsmanifest.xml δεν είναι έγκυρο. Για περισσότερες πληροφορίες, ανατρέξτε στο http\://www.imsglobal.org.

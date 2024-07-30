@@ -1,0 +1,10 @@
+copy=αντίγραφο
+confirm.partial.copy.title=Μερικό αντίγραφο
+confirm.partial.copy.text=Δεν έχετε άδεια να αντιγράψετε όλα τα μαθήματα και τους πόρους. Θέλετε να συνεχίσετε πάντως;
+copy.dates=Αντιγραφή ημερομηνίας έναρξης λήξης
+copy.resources.dont=μην αντιγράφετε
+copy.resources=μαθήματα και πόροι
+copy.resources.resource=Αντιγραφή μαθημάτων και πόρων
+copy.resources.relation=αντιγραφή σχέσεων
+copy.taxonomy.levels=Αντιγραφή ταξινόμησης
+info.curriculum.element.copy=Το στοιχείο του προγράμματος σπουδών έχει αντιγραφεί.

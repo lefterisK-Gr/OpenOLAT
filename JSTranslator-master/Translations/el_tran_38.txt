@@ -1,0 +1,3 @@
+notifications.entry=Το μήνυμα "{0}" δημοσιεύτηκε από τον χρήστη {1}
+notification.title.group=Μηνύματα στην ομάδα "{0}"
+notification.title=Μηνύματα στο μάθημα "{0}"

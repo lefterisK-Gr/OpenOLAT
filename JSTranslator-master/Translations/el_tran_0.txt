@@ -1,0 +1,9 @@
+pane.tab.accessibility=Πρόσβαση
+pane.tab.clconfig=Ρυθμίσεις
+condition.accessibility.title=Πρόσβαση
+config.header=ΛΙΣΤΑ ΕΛΕΓΧΟΥ
+config.allhidden.short=Όλα τα σημεία ελέγχου αόρατα
+config.nocheckpoints.short=Δεν υπάρχουν σημεία ελέγχου
+config.allhidden.long=Όλα τα σημεία ελέγχου σε αυτήν τη λίστα ελέγχου έχουν οριστεί ως αόρατα. Ίσως είναι λογικό να αποκρύψετε ολόκληρη τη μονάδα της λίστας ελέγχου.
+config.nocheckpoints.long=Η λίστα ελέγχου πρέπει να περιέχει τουλάχιστον ένα σημείο ελέγχου.
+manage=Διαχείριση λίστας ελέγχου
